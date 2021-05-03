@@ -16,9 +16,9 @@ I'm intrested in Web developing and in programming. I do some daily practice on 
 - C,JAVA,Python,PHP,Django
 - Web Development
 
-![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghu23112000&layout=compact&theme=tokyonigh)
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunandan23&layout=compact&theme=tokyonigh)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Raghu23112000&theme=merko&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Raghunandan23&theme=merko&show_icons=true)
 
 ## Follow Me:
 
