@@ -1,16 +1,8 @@
 
 # Raghunandan S
-Web developer | Software developer | Programmer | Passion on Front End Developing.
+Eat | Code | Sleep | Repeat
 
 <hr>
-
-# About Me
-
-I'm intrested in Web developing and in programming. I do some daily practice on Hackerearth, Leetcode and Geeks for Geeks
-
-- I’m currently studying in Sri Krishna college of Engineering and Technology
-- I’m currently learning Btech Information technology.
-- Love towards Programming and Front end developing.
 
 # Skills
 - C,JAVA,Python,PHP,Django
