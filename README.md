@@ -6,7 +6,6 @@ Eat | Code | Sleep | Repeat
 
 # Skills
 - C,JAVA,Python,PHP,Django
-- Web Development
 
 ![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghunandan23&layout=compact&theme=tokyonigh)
 
